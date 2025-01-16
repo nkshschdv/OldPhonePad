@@ -66,17 +66,24 @@ Please design and document a class or method that will turn any input to **OldPh
 
 Assume that a send `#` will always be included at the end of every input.
 
-### Tested Additional User Inputs 
+
+# Solution  
+### Tested Scenarios  
 | **Example**                         | **Output**   |  
-|-------------------------------------|--------------|  
+|-------------------------------------|--------------|
+| `33#`                         | `E`        |
+| `227*#`                       | `B`        |
+| `4433555 555666#`             | `HELLO`    |
+| `8 88777444666*664#`          | `TURING`   |
 | `777*666* 555*42633#`               | `GAME`       |  
 | `***********#`                      | (empty)      |  
 | `22266655530*****44402220330222882233#` | `I C E CUBE` |  
 | `2222 0 220 0 222222#`             | `A B  C`     |  
 
-### Online Solution 
+### Demo 
 [You can run the code here](https://dotnetfiddle.net/Dsu2bx)
-### Solution 
+
+### C# Code  
 
 [Original File](https://github.com/nkshschdv/OldPhonePad/blob/master/OldPhonePad/Program.cs)
 
