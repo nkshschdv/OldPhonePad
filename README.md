@@ -74,9 +74,9 @@ Assume that a send `#` will always be included at the end of every input.
 | `22266655530*****44402220330222882233#` | `I C E CUBE` |  
 | `2222 0 220 0 222222#`             | `A B  C`     |  
 
-
-### Solution
-
+### Online Solution 
+[You can run the code here](https://dotnetfiddle.net/Dsu2bx)
+### Solution 
 ```csharp
     public static class OldPadPhone
     {
