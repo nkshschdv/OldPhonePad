@@ -62,7 +62,10 @@ namespace OldPadPhone
 
         public static void Main(string[] args)
         {
-            Console.WriteLine(OldPhonePad("***********00611 1 88 8 45"));
+            Console.WriteLine(OldPhonePad("33#")); // E
+            Console.WriteLine(OldPhonePad("227*#")); //B
+            Console.WriteLine(OldPhonePad("4433555 555666#")); // HELLO
+            Console.WriteLine(OldPhonePad("8 88777444666*664#")); // TURING 
         }
     }
 }
