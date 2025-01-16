@@ -6,9 +6,8 @@ Each button has a number to identify it, and pressing a button multiple times wi
 For example, pressing `1` once will return `A`, pressing it twice in succession will return `B`, and pressing it three times will return `C`.
 
 You must pause for a second in order to type two characters from the same button after each other: `111 1 11` -> `CAB`.
----
+
 ![image](https://github.com/user-attachments/assets/ed671ade-00b6-4ad3-920c-fb7b4d955d85)
----
 
 
 
