@@ -51,7 +51,7 @@ You must pause for a second in order to type two characters from the same button
 
 
 
-### 🔢 Example
+### Example
 
 | Example                       | Output   | Explanation                                                                 |
 |-------------------------------|----------|-----------------------------------------------------------------------------|
@@ -67,13 +67,12 @@ Please design and document a class or method that will turn any input to **OldPh
 Assume that a send `#` will always be included at the end of every input.
 
 ### Tested Additional User Inputs 
-
-| Example                       | Output   |                                                  |
-|-------------------------------|----------|
-| `777*666* 555*42633#`     | GAME              
-| `***********#`                       | (empty)        | 
-| `22266655530*****44402220330222882233#`             | I C E CUBE    |
-| `2222 0 220 0 222222#`                       | A B  C        | 
+| **Example**                         | **Output**   |  
+|-------------------------------------|--------------|  
+| `777*666* 555*42633#`               | `GAME`       |  
+| `***********#`                      | (empty)      |  
+| `22266655530*****44402220330222882233#` | `I C E CUBE` |  
+| `2222 0 220 0 222222#`             | `A B  C`     |  
 
 
 ### Solution
